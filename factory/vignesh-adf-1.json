@@ -1,0 +1,9 @@
+{
+	"name": "vignesh-adf-1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b7f11a3e-7631-4e97-9107-a903566f9757",
+		"tenantId": "03f08dc0-c3bc-4873-a8c7-3f040a6e6d31"
+	}
+}
